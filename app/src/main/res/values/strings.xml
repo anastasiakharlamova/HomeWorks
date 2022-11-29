@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="button_text">Changer Text</string>
+    <string name="new_text">New Text</string>
+</resources>
